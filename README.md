@@ -7,3 +7,5 @@ Daftar playlist keren dari para pegiat software engineering di Indonesia
   - **Math Rock - Instrumental** : [Apple Music](https://itunes.apple.com/id/playlist/math-rock-instrumental/pl.u-LdbqqlguN7oBkD)
 * [ZulwiyozaPutra](https://github.com/ZulwiyozaPutra)
   - **Infinite Loop** : [iTunes](https://itunes.apple.com/id/playlist/infinite-loop/pl.u-mJy8VV8uyPZ7pE)
+* [randyviandaputra](https://github.com/randyviandaputra)
+  - **Indonesia Mantap** : [Spotify](https://open.spotify.com/playlist/5N93EaXge4tBlNaCHMo0VM)
